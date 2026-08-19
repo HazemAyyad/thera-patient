@@ -1,0 +1,3 @@
+abstract class ThirdRegsterScreenState {}
+class ThirdRegsterScreenStateInit extends ThirdRegsterScreenState{}
+class OnChangeBloodGroups extends ThirdRegsterScreenState{}
